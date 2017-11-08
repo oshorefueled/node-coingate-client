@@ -1,0 +1,28 @@
+{
+  "name": "coingate",
+  "version": "1.0.0",
+  "description": "a payment library for processing cryptocurrency transactions through coingate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshorefueled/node-coingate-client.git"
+  },
+  "keywords": [
+    "coingate",
+    "node",
+    "payment",
+    "client"
+  ],
+  "author": "osho emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oshorefueled/node-coingate-client/issues"
+  },
+  "homepage": "https://github.com/oshorefueled/node-coingate-client#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
