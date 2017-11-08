@@ -1,1 +1,2 @@
-**Coingate Nodejs Payment Client**
+Coingate Node.js API Client
+==============================
