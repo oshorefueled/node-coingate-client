@@ -24,5 +24,10 @@
   "homepage": "https://github.com/oshorefueled/node-coingate-client#readme",
   "dependencies": {
     "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.2"
   }
 }
