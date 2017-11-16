@@ -3,6 +3,8 @@
 const chai = require("chai");
 const expect = chai.expect;
 const merge = require("../lib/utils").mergeObjects;
+const config = require("../lib/configure");
+const apiConfig = require("../config/configure");
 
 describe("Util function - Merge", function () {
    it("returns a merged object", function (done) {
@@ -13,3 +15,4 @@ describe("Util function - Merge", function () {
        done();
    })
 });
+

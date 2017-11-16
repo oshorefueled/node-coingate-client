@@ -4,7 +4,7 @@
   "description": "a payment library for processing cryptocurrency transactions through coingate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha 'test/**/*.js' --timeout 10000"
   },
   "repository": {
     "type": "git",

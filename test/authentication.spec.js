@@ -6,7 +6,7 @@ const auth = require("../lib/authentication");
 
 describe('Auth - Get Signature', function () {
    it('should a unique hash string', function (done) {
-        var signature = auth.generateSignature(124, '3923da93zxx9312s', '848292dadaedah3gdnladja');
+        var signature = auth.generateSignature(654, 'etQ3234rs436702c2', 'm1ivbhCDiskurnsuweriusvVs');
         expect(signature).to.be.a('string');
         done();
    });
