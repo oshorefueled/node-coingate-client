@@ -6,9 +6,9 @@ const client = require("../lib/client");
 const config = require("../lib/configure");
 
 var options = {
-    api_key: 'etQE8xLjP3XVJZuUDfodK2',
-    api_secret: 'm1nrbhCDioGIZ9PQl4jSRXL7OYuMKtVs',
-    app_id: '705',
+    api_key: 'api-key',
+    api_secret: 'api-secret',
+    app_id: 'app-id',
     mode: 'sandbox'
 };
 config.configure(options);
