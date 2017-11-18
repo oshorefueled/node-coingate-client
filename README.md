@@ -99,7 +99,7 @@ var coingate = require('coingate');
  If you would like to contribute, please fork the repo, make your changes and create a pull request.
 
  ## License
- This library is was released under MIT License
+ This library was released under MIT License
 
  ## Reference
 
