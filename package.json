@@ -1,6 +1,6 @@
 {
   "name": "coingate",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a payment library for processing cryptocurrency transactions through coingate",
   "main": "index.js",
   "scripts": {
