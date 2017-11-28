@@ -89,7 +89,7 @@ coingate.listOrders(params, function (err, res, body) {
   if (err) {
       console.log(err);
   } else {
-      console.log('order created successfully');
+      console.log('order listed successfully');
       console.log(res.body);
   }
 });
